@@ -1,4 +1,4 @@
-# rating-web
+# rating-web cy
 
 Container exposes port 8080.
 Required configuration via environment variables:
